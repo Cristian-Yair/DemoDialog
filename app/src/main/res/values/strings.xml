@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoDialog</string>
+    <string name="dialog_title">Mi primer dialogo</string>
+    <string name="dialog_message">Presione aceptar para continuar</string>
+    <string name="txtBtnAceptar">Aceptar</string>
+    <string name="txtBtnCancelar">Cancelar</string>
+</resources>
